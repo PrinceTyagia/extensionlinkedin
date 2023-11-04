@@ -4,3 +4,4 @@ let liViewPosts = document.createElement("li");
 ulHeader.appendChild(liViewPosts);
 liViewPosts.classList.add("global-nav__primary-item");
 liViewPosts.innerHTML = "test";
+// hello world
